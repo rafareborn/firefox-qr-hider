@@ -1,5 +1,9 @@
 # Firefox QR Hider Xposed Module
 
+> **Archived: Use [Iceraven](https://github.com/fork-maintainers/iceraven-browser) Instead**  
+>  
+> This project is now archived in favor of [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), which already includes an option to hide the QR code icon. You can download Iceraven from the repository above
+
 **Firefox QR Hider** is an Xposed module that allows you to hide the QR code icon in the search bar of various Firefox browser apps. This module is designed to provide a cleaner and less cluttered browsing experience by removing the QR code icon from the user interface.
 
 ## Supported Apps
